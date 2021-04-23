@@ -8,9 +8,9 @@
 
 ###    :large_blue_diamond: [Track: Frontend Developer:](https://hyperskill.org/tracks/5)
 ####   :heavy_check_mark:  [flashcards](https://github.com/Alena2020/flashcards)
-####   :heavy_check_mark:  [Virtual-Piano](https://github.com/Alena2020/Virtual-Piano)
+####   :heavy_check_mark:  [Virtual-Piano](https://github.com/Alena2020/Virtual-Piano) 🎹🎼  
 ####   :heavy_check_mark:  [Portfolio](https://github.com/Alena2020/Portfolio)
-####   :heavy_check_mark:  [Open-Space](https://github.com/Alena2020/Open-Space)
+####   :heavy_check_mark:  [Open-Space](https://github.com/Alena2020/Open-Space) 🌌🕹🚀🛸🛰
 ###    :large_blue_diamond: [Track: Preparing for the AP Computer Science (Java):](https://hyperskill.org/tracks/8)
 
 ####  :heavy_check_mark: [simple-chatty-bot](https://github.com/Alena2020/simple-chatty-bot)
@@ -27,6 +27,10 @@
 
 <!--
 **Alena2020/Alena2020** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages and Tools:    
+Books: 
+Libraries and Frameworks:  
+
 
 Here are some ideas to get you started:
 
