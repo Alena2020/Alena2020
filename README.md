@@ -4,7 +4,7 @@
 
 [link](https://hyperskill.org/profile/3929743)
 
-My project from the JetBrains Academy Track: Frontend Developer.
+My projects from the JetBrains Academy Track: Frontend Developer.
 
 
 
