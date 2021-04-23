@@ -20,7 +20,7 @@
 - My projects from the Glo Academy on github:
      - :heavy_check_mark: [the_witcher ](https://github.com/Alena2020/the_witcher) 🐺
      - :heavy_check_mark:  [Flowers](https://github.com/Alena2020/Flowers) 💐🌷🌹🌺🌸🌼🌻  
-     - :heavy_check_mark:  [youtube-concept](https://github.com/Alena2020/Portfolio) 🧰🗂🌌
+     - :heavy_check_mark:  [youtube-concept](https://github.com/Alena2020/youtube-concept) 📒 
        
 
 
