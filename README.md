@@ -18,9 +18,9 @@ My projects from the JetBrains Academy on github:
     - :heavy_check_mark: [Coffee-Machine](https://github.com/Alena2020/Coffee-Machine) ☕️
 #### [Glo Academy](https://glo.academy/)
 My projects from the Glo Academy on github:
-    - :heavy_check_mark:  [flashcards](https://github.com/Alena2020/flashcards) 🗺
-    - :heavy_check_mark:  [Virtual-Piano](https://github.com/Alena2020/Virtual-Piano) 🎹🎼  
-    - :heavy_check_mark:  [Portfolio](https://github.com/Alena2020/Portfolio) 🧰🗂🌌
+     - :heavy_check_mark:  [the_witcher ](https://github.com/Alena2020/the_witcher) 🗺
+     - :heavy_check_mark:  [Flowers](https://github.com/Alena2020/Virtual-Piano) 🎹🎼  
+     - :heavy_check_mark:  [youtube-concept](https://github.com/Alena2020/Portfolio) 🧰🗂🌌
        
 
 
