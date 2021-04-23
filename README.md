@@ -11,8 +11,8 @@ My projects from the JetBrains Academy [Track: Frontend Developer:](https://hype
 
 My projects from the JetBrains Academy [Track: Preparing for the AP Computer Science (Java):](https://hyperskill.org/tracks/8)
 
-[simple-chatty-bot](https://hyperskill.org/tracks/8)
-[Coffee-Machine](https://hyperskill.org/tracks/8)
+######  [simple-chatty-bot](https://hyperskill.org/tracks/8)
+###### [Coffee-Machine](https://hyperskill.org/tracks/8)
 
   
 
