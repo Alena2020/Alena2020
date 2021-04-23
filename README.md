@@ -6,7 +6,7 @@
  HTML, CSS, JavaScript
 ### Courses and projects:
 #### [JetBrains Academy](https://hyperskill.org/profile/3929743)
--My projects from the JetBrains Academy on github:
+- My projects from the JetBrains Academy on github:
 
 - :large_blue_diamond: [Track: Frontend Developer:](https://hyperskill.org/tracks/5)
     - :heavy_check_mark: [flashcards](https://github.com/Alena2020/flashcards) 🗺
@@ -19,7 +19,7 @@
 #### [Glo Academy](https://glo.academy/)
 - My projects from the Glo Academy on github:
      - :heavy_check_mark: [the_witcher ](https://github.com/Alena2020/the_witcher) 🐺
-     - :heavy_check_mark:  [Flowers](https://github.com/Alena2020/Virtual-Piano) 🎹🎼  
+     - :heavy_check_mark:  [Flowers](https://github.com/Alena2020/Flowers) 💐🌷🌹🌺🌸🌼🌻  
      - :heavy_check_mark:  [youtube-concept](https://github.com/Alena2020/Portfolio) 🧰🗂🌌
        
 
