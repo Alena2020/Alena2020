@@ -17,6 +17,7 @@ My projects from the JetBrains Academy on github:
     - :heavy_check_mark: [simple-chatty-bot](https://github.com/Alena2020/simple-chatty-bot) 🤖
     - :heavy_check_mark: [Coffee-Machine](https://github.com/Alena2020/Coffee-Machine) ☕️
 #### [Glo Academy](https://glo.academy/)
+My projects from the Glo Academy on github:
        
 
 
