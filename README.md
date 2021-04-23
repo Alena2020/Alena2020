@@ -9,7 +9,7 @@
 ####   :heavy_check_mark:  [flashcards](https://hyperskill.org/tracks/5)
 ####   :heavy_check_mark:  [Virtual-Piano](https://hyperskill.org/tracks/5)
 ####   :heavy_check_mark:  [Portfolio](https://hyperskill.org/tracks/5)
-####   :heavy_check_mark:  [Open-Space](https://hyperskill.org/tracks/5)
+####   :heavy_check_mark:  [Open-Space](https://github.com/Alena2020/Open-Space)
 ###    [Track: Preparing for the AP Computer Science (Java):](https://hyperskill.org/tracks/8)
 
 ####  :heavy_check_mark: [simple-chatty-bot](https://github.com/Alena2020/simple-chatty-bot)
