@@ -3,16 +3,17 @@
 # Summary
 
 ### [JetBrains Academy](https://hyperskill.org/profile/3929743)
+### My projects from the JetBrains Academy on github:
 
-### My projects from the JetBrains Academy [Track: Frontend Developer:](https://hyperskill.org/tracks/5)
+###    [Track: Frontend Developer:](https://hyperskill.org/tracks/5)
 ####
 ####
 ####
 ####
-### My projects from the JetBrains Academy [Track: Preparing for the AP Computer Science (Java):](https://hyperskill.org/tracks/8)
+###    [Track: Preparing for the AP Computer Science (Java):](https://hyperskill.org/tracks/8)
 
 ####  [simple-chatty-bot](https://hyperskill.org/tracks/8)
-#### [Coffee-Machine](https://hyperskill.org/tracks/8)
+####  [Coffee-Machine](https://hyperskill.org/tracks/8)
 
   
 
