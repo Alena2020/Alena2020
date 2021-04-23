@@ -2,10 +2,12 @@
 
 # Summary
 
-[link](https://hyperskill.org/profile/3929743)
+[JetBrains Academy](https://hyperskill.org/profile/3929743)
 
-My projects from the JetBrains Academy Track: Frontend Developer.
+My projects from the JetBrains Academy Track: Frontend Developer:
 
+
+My project from the JetBrains Academy Track: Preparing for the AP Computer Science (Java):
 
 
 
