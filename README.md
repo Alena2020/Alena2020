@@ -4,7 +4,7 @@
 # Summary
 ### Skills:
  HTML, CSS, JS
-### Courses and projects
+### Courses and projects:
 #### [JetBrains Academy](https://hyperskill.org/profile/3929743)
 My projects from the JetBrains Academy on github:
 
