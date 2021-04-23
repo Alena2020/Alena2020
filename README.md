@@ -9,7 +9,7 @@
 
 My projects from the JetBrains Academy Track: Frontend Developer:
 
-[Track: Preparing for the AP Computer Science (Java):](https://hyperskill.org/profile/3929743)
+[Track: Preparing for the AP Computer Science (Java):](https://hyperskill.org/tracks/8)
 
 
 
