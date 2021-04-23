@@ -7,7 +7,7 @@
 #### My projects from the JetBrains Academy on github:
 
 ####    :large_blue_diamond: [Track: Frontend Developer:](https://hyperskill.org/tracks/5)
-#####                       - :heavy_check_mark:  [flashcards](https://github.com/Alena2020/flashcards) 🗺
+#####   :heavy_check_mark:  [flashcards](https://github.com/Alena2020/flashcards) 🗺
 #####   :heavy_check_mark:  [Virtual-Piano](https://github.com/Alena2020/Virtual-Piano) 🎹🎼  
 #####   :heavy_check_mark:  [Portfolio](https://github.com/Alena2020/Portfolio) 🧰🗂🌌
 #####   :heavy_check_mark:  [Open-Space](https://github.com/Alena2020/Open-Space) 🌌🕹🚀🛸🛰
@@ -15,7 +15,7 @@
 
 #####  :heavy_check_mark: [simple-chatty-bot](https://github.com/Alena2020/simple-chatty-bot) 🤖
 #####  :heavy_check_mark: [Coffee-Machine](https://github.com/Alena2020/Coffee-Machine) ☕️
-
+- 🔭
   
        
 
