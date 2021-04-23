@@ -1,4 +1,5 @@
-### Hi there 👋 my name is Alena.
+### Hi there, my name is Alena.
+*I’m looking for a Frontend Developer position!*
 
 # Summary
 
