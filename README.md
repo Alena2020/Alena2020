@@ -12,8 +12,8 @@
 ####
 ###    [Track: Preparing for the AP Computer Science (Java):](https://hyperskill.org/tracks/8)
 
-####  [simple-chatty-bot](https://github.com/Alena2020/simple-chatty-bot)
-####  [Coffee-Machine](https://github.com/Alena2020/Coffee-Machine)
+####  - [x] [simple-chatty-bot](https://github.com/Alena2020/simple-chatty-bot)
+####  - [x] [Coffee-Machine](https://github.com/Alena2020/Coffee-Machine)
 
   
 
