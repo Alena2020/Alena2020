@@ -2,7 +2,7 @@
 #### *I’m looking for a Frontend Developer position!*
 
 # Summary
-
+### Courses and projects
 #### [JetBrains Academy](https://hyperskill.org/profile/3929743)
 My projects from the JetBrains Academy on github:
 
