@@ -2,7 +2,7 @@
 
 # Summary
 
-[JetBrains Academy](https://hyperskill.org/profile/3929743)
+### [JetBrains Academy](https://hyperskill.org/profile/3929743)
 
 ### My projects from the JetBrains Academy [Track: Frontend Developer:](https://hyperskill.org/tracks/5)
 ####
