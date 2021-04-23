@@ -15,7 +15,7 @@
 
 -   :heavy_check_mark: [simple-chatty-bot](https://github.com/Alena2020/simple-chatty-bot) 🤖
 -   :heavy_check_mark: [Coffee-Machine](https://github.com/Alena2020/Coffee-Machine) ☕️
-- 🔭
+--  🔭
   
        
 
