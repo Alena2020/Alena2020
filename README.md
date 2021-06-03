@@ -13,6 +13,7 @@
     - :heavy_check_mark: [Virtual-Piano](https://github.com/Alena2020/Virtual-Piano) 🎹🎼  
     - :heavy_check_mark: [Portfolio](https://github.com/Alena2020/Portfolio) 🧰🗂🌌
     - :heavy_check_mark: [Open-Space](https://github.com/Alena2020/Open-Space) 🌌🕹🚀🛸🛰
+    - :heavy_check_mark:
 - :large_blue_diamond: [Track: Preparing for the AP Computer Science (Java):](https://hyperskill.org/tracks/8)
     - :heavy_check_mark: [simple-chatty-bot](https://github.com/Alena2020/simple-chatty-bot) 🤖
     - :heavy_check_mark: [Coffee-Machine](https://github.com/Alena2020/Coffee-Machine) ☕️
