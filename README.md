@@ -1,5 +1,8 @@
 ### Hi there, my name is Alena.
 #### *I’m looking for a Frontend Developer position!*
+I'm open to new knowledge,
+I like to study new technologies
+and apply them in practice.
 - 🌱 I’m currently learning [javascript](https://learn.javascript.ru/)
 
 # Summary
