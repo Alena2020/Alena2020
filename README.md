@@ -4,6 +4,7 @@ I'm open to new knowledge,
 I like to study new technologies
 and apply them in practice.
 - 🌱 I’m currently learning [javascript](https://learn.javascript.ru/)
+- ♟ My favorite game is chess.
 
 # Summary
 ### Skills:
