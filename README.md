@@ -4,7 +4,7 @@ Header
 
 ### Hi there, my name is Alena.
 
-#### _I’m looking for a Frontend Developer position!_
+#### _I’m looking for a Junior Frontend Developer position!_
 
 I'm open to new knowledge,
 I like to study new technologies
@@ -15,7 +15,7 @@ and apply them in practice.
 
 # Summary
 
-### Languages and Tools
+### Languages and Tools:
 
 [![JavaScript](https://img.shields.io/badge/-Java_Script-mediumblue?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
 [![HTML](https://img.shields.io/badge/-HTML-mediumblue?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
@@ -73,3 +73,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 -->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alena2020&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alena2020&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
