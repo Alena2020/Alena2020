@@ -17,13 +17,13 @@ and apply them in practice.
 
 ### Languages and Tools
 
-![JavaScript](https://img.shields.io/badge/-Java_Script-mediumblue?style=for-the-badge&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML-mediumblue?style=for-the-badge&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-mediumblue?style=for-the-badge&logoColor=4f88db&logo=CSS3)
-![GitHub](https://img.shields.io/badge/-GitHub-mediumblue?style=for-the-badge&logo=GitHub)
-![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-mediumblue?style=for-the-badge&logoColor=4f88db&logo=VisualStudioCode)
-![WebStorm](https://img.shields.io/badge/-WebStorm-mediumblue?style=for-the-badge&logoColor=black&logo=WebStorm)
-![Figma](https://img.shields.io/badge/-Figma-mediumblue?style=for-the-badge&logo=Figma)
+[![JavaScript](https://img.shields.io/badge/-Java_Script-mediumblue?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
+[![HTML](https://img.shields.io/badge/-HTML-mediumblue?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[![CSS](https://img.shields.io/badge/-CSS-mediumblue?style=for-the-badge&logoColor=4f88db&logo=CSS3)](https://developer.mozilla.org/ru/docs/Web/CSS)
+[![GitHub](https://img.shields.io/badge/-GitHub-mediumblue?style=for-the-badge&logo=GitHub)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-mediumblue?style=for-the-badge&logoColor=4f88db&logo=VisualStudioCode)](https://code.visualstudio.com/)
+[![WebStorm](https://img.shields.io/badge/-WebStorm-mediumblue?style=for-the-badge&logoColor=black&logo=WebStorm)](https://www.jetbrains.com/ru-ru/webstorm/)
+[![Figma](https://img.shields.io/badge/-Figma-mediumblue?style=for-the-badge&logo=Figma)](https://www.figma.com/)
 
 ### Courses and projects:
 
