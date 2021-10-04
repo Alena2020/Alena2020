@@ -4,12 +4,11 @@ Header
 
 ### Hi there, my name is Alena.
 
-#### _I’m looking for a Junior Frontend Developer position!_
+#### **_I’m looking for a Junior Frontend Developer position!_**
 
-I'm open to new knowledge,
-I like to study new technologies
-and apply them in practice.
+I'm open to new knowledge, I like to study new technologies and apply them in practice.
 
+- 🔭 I’m currently working on the [Become-the-best-version-of-yourself](https://github.com/Alena2020/Become-the-best-version-of-yourself)
 - 🌱 I’m currently learning [javascript](https://learn.javascript.ru/)
 - ♟ My favorite game is chess.
 
@@ -26,11 +25,14 @@ and apply them in practice.
 [![WebStorm](https://img.shields.io/badge/-WebStorm-mediumblue?style=for-the-badge&logoColor=black&logo=WebStorm)](https://www.jetbrains.com/ru-ru/webstorm/)
 [![Figma](https://img.shields.io/badge/-Figma-mediumblue?style=for-the-badge&logo=Figma)](https://www.figma.com/)
 
+<!--
+### Libraries and Frameworks:
+### Books 📚:
+-->
+
 ### Courses and projects:
 
-#### [JetBrains Academy](https://hyperskill.org/profile/3929743)
-
-- My projects from the JetBrains Academy on github:
+#### My projects when I was studying the course in from the [JetBrains Academy](https://hyperskill.org/profile/3929743) on github:
 
 - :large_blue_diamond: [Track: Frontend Developer:](https://hyperskill.org/tracks/5)
   - :heavy_check_mark: [flashcards](https://github.com/Alena2020/flashcards) 🗺
@@ -44,12 +46,11 @@ and apply them in practice.
   - :heavy_check_mark: [simple-chatty-bot](https://github.com/Alena2020/simple-chatty-bot) 🤖
   - :heavy_check_mark: [Coffee-Machine](https://github.com/Alena2020/Coffee-Machine) ☕️
 
-#### My projects made at workshops at [Glo Academy](https://glo.academy/)
+#### My projects made at workshops at [Glo Academy](https://glo.academy/) on github:
 
-- My projects from the Glo Academy on github:
-  - :heavy_check_mark: [the_witcher ](https://github.com/Alena2020/the_witcher) 🐺
-  - :heavy_check_mark: [Flowers](https://github.com/Alena2020/Flowers) 💐🌷🌹🌺🌸🌼🌻
-  - :heavy_check_mark: [youtube-concept](https://github.com/Alena2020/youtube-concept) 📒
+- :heavy_check_mark: [the_witcher ](https://github.com/Alena2020/the_witcher) 🐺
+- :heavy_check_mark: [Flowers](https://github.com/Alena2020/Flowers) 💐🌷🌹🌺🌸🌼🌻
+- :heavy_check_mark: [youtube-concept](https://github.com/Alena2020/youtube-concept) 📒
 
 #### My projects made according to tutorials from YouTube on github:
 
@@ -58,33 +59,9 @@ and apply them in practice.
 - :heavy_check_mark: [Memory-Card-Game](https://github.com/Alena2020/Memory-Card-Game/) 🎮
 - :heavy_check_mark: [Drums](https://github.com/Alena2020/Drums/) 🥁🎼
 
-#### My project in which I implement my creative ideas:
+#### My project in which I implement my creative ideas on github:
 
 - :heavy_check_mark: [Become-the-best-version-of-yourself](https://github.com/Alena2020/Become-the-best-version-of-yourself) (In the process of development)
-
-<!--
-Follow me:
-Books:
-Libraries and Frameworks:
-
-:white_check_mark: Это уже сделано
-:negative_squared_cross_mark: Я не буду это делать
-:black_square_button: делать или не делать, вот в чем вопрос?
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-📚
-🎸
--->
 
 [![Alena2020's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alena2020&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
