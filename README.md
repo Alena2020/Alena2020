@@ -1,4 +1,4 @@
-![Header](https://github.com/Alena2020/Alena2020/blob/main/img/Header1.jpg)
+[![Header](https://github.com/Alena2020/Alena2020/blob/main/img/Header1.JPG)](https://github.com/Alena2020)
 
 ### About me
 
