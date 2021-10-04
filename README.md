@@ -1,12 +1,12 @@
 [![Header](https://github.com/Alena2020/Alena2020/blob/main/img/Header1.JPG)](https://github.com/Alena2020)
 
-### About me
-
 ### Hi there, my name is Alena.
 
 #### **_I’m looking for a Junior Frontend Developer position!_**
 
-I'm open to new knowledge, I like to study new technologies and apply them in practice.
+I'm open to new knowledge, I like to study new technologies and apply them in practice. I’m entirely self-taught. My learning experiences - online courses and lectures, tutorials from YouTube, specialized literature and official documentation.
+
+### About me
 
 - 🔭 I’m currently working on the [Become-the-best-version-of-yourself](https://github.com/Alena2020/Become-the-best-version-of-yourself)
 - 🌱 I’m currently learning [javascript](https://learn.javascript.ru/)
