@@ -1,4 +1,4 @@
-Header
+[Header]()
 
 ### About me
 
@@ -63,6 +63,8 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 
 - :heavy_check_mark: [Become-the-best-version-of-yourself](https://github.com/Alena2020/Become-the-best-version-of-yourself) (In the process of development)
 
-[![Alena2020's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alena2020&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+# GitHub Stats
+
+[![Alena2020's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alena2020&show_icons=true&theme=tokyonight&include_all_commits)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alena2020&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
