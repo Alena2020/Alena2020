@@ -51,6 +51,8 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 - :heavy_check_mark: [the_witcher ](https://github.com/Alena2020/the_witcher) 🐺
 - :heavy_check_mark: [Flowers](https://github.com/Alena2020/Flowers) 💐🌷🌹🌺🌸🌼🌻
 - :heavy_check_mark: [youtube-concept](https://github.com/Alena2020/youtube-concept) 📒
+- :heavy_check_mark: [Cinema-project](https://github.com/Alena2020/Cinema-project) 🎬
+- :heavy_check_mark: [Index.eda](https://github.com/Alena2020/Index.eda) 🍱🥗🍰🍗🥞🍕🥘
 
 #### My projects made according to tutorials from YouTube on github:
 
