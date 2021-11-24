@@ -42,6 +42,7 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
   - :heavy_check_mark: [To-Do-List-](https://github.com/Alena2020/To-Do-List-)📋
   - :heavy_check_mark: [Case-Converter](https://github.com/Alena2020/Case-Converter)📁
   - :heavy_check_mark: [Hypergram](https://github.com/Alena2020/Hypergram)🎨 (In the process of development)
+  - :heavy_check_mark: [Hyperskill-Cafe](https://github.com/Alena2020/Hyperskill-Cafe)☕️
 - :large_blue_diamond: [Track: Preparing for the AP Computer Science (Java):](https://hyperskill.org/tracks/8)
   - :heavy_check_mark: [simple-chatty-bot](https://github.com/Alena2020/simple-chatty-bot) 🤖
   - :heavy_check_mark: [Coffee-Machine](https://github.com/Alena2020/Coffee-Machine) ☕️
