@@ -25,8 +25,11 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 [![WebStorm](https://img.shields.io/badge/-WebStorm-mediumblue?style=for-the-badge&logoColor=black&logo=WebStorm)](https://www.jetbrains.com/ru-ru/webstorm/)
 [![Figma](https://img.shields.io/badge/-Figma-mediumblue?style=for-the-badge&logo=Figma)](https://www.figma.com/)
 
-<!--
 ### Libraries and Frameworks:
+
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-mediumblue?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/)
+
+<!--
 ### Books 📚:
 -->
 
@@ -65,6 +68,7 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 #### My project in which I implement my creative ideas on github:
 
 - :heavy_check_mark: [Become-the-best-version-of-yourself](https://github.com/Alena2020/Become-the-best-version-of-yourself) (In the process of development)
+- :heavy_check_mark: [It-s-my-life](https://github.com/Alena2020/It-s-my-life) (In the process of development)
 
 # GitHub Stats
 
