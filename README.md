@@ -38,14 +38,21 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 #### My projects when I was studying the course in from the [JetBrains Academy](https://hyperskill.org/profile/3929743) on github:
 
 - :large_blue_diamond: [Track: Frontend Developer:](https://hyperskill.org/tracks/5)
+
   - :heavy_check_mark: [flashcards](https://github.com/Alena2020/flashcards) 🗺
   - :heavy_check_mark: [Virtual-Piano](https://github.com/Alena2020/Virtual-Piano) 🎹🎼
   - :heavy_check_mark: [Portfolio](https://github.com/Alena2020/Portfolio) 🧰🗂🌌
   - :heavy_check_mark: [Open-Space](https://github.com/Alena2020/Open-Space) 🌌🕹🚀🛸🛰
   - :heavy_check_mark: [To-Do-List-](https://github.com/Alena2020/To-Do-List-)📋
   - :heavy_check_mark: [Case-Converter](https://github.com/Alena2020/Case-Converter)📁
-  - :heavy_check_mark: [Hypergram](https://github.com/Alena2020/Hypergram)🎨 (In the process of development)
+  - :heavy_check_mark: [Hypergram](https://github.com/Alena2020/Hypergram)🎨
   - :heavy_check_mark: [Hyperskill-Cafe](https://github.com/Alena2020/Hyperskill-Cafe)☕️
+  - :heavy_check_mark: [Simple-Chatty-Bot-](https://github.com/Alena2020/Simple-Chatty-Bot-)🤖
+  - :heavy_check_mark: [Zookeeper](https://github.com/Alena2020/Zookeeper)🐫🦁🦌🦢🦇🐰
+  - :heavy_check_mark: [Simple-Currency-Converter](https://github.com/Alena2020/Simple-Currency-Converter)
+  - :heavy_check_mark: [Coffee-Machine-JavaScript](https://github.com/Alena2020/Coffee-Machine-JavaScript)☕️
+  - :heavy_check_mark: [Magic-Form](https://github.com/Alena2020/Magic-Form)(In the process of development)
+
 - :large_blue_diamond: [Track: Preparing for the AP Computer Science (Java):](https://hyperskill.org/tracks/8)
   - :heavy_check_mark: [simple-chatty-bot](https://github.com/Alena2020/simple-chatty-bot) 🤖
   - :heavy_check_mark: [Coffee-Machine](https://github.com/Alena2020/Coffee-Machine) ☕️
