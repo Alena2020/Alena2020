@@ -37,7 +37,7 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 
 #### My projects when I was studying the course in from the [JetBrains Academy](https://hyperskill.org/profile/3929743) on github:
 
-- :large_blue_diamond: [Track: Frontend Developer:](https://hyperskill.org/tracks/5)
+- :large_blue_diamond: [Track: Frontend Developer(Frontend Core):](https://hyperskill.org/tracks/5)
 
   - :heavy_check_mark: [flashcards](https://github.com/Alena2020/flashcards) 🗺
   - :heavy_check_mark: [Virtual-Piano](https://github.com/Alena2020/Virtual-Piano) 🎹🎼
