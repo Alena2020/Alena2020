@@ -59,7 +59,7 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
   - :heavy_check_mark: [simple-chatty-bot](https://github.com/Alena2020/simple-chatty-bot) 🤖
   - :heavy_check_mark: [Coffee-Machine](https://github.com/Alena2020/Coffee-Machine) ☕️
 
-#### My projects made at Marathon: 5 days of 5 projects in JavaScript at [Result School](https://result.school/products/marathon-js?utm_source=youtube&utm_medium=vladilen&utm_campaign=video_18_10_2022) on github:
+#### Projects I made at Marathon: 5 days of 5 projects in JavaScript at [Result School](https://result.school/products/marathon-js?utm_source=youtube&utm_medium=vladilen&utm_campaign=video_18_10_2022) on github:
 
 - :heavy_check_mark: Day 1: [Cards](https://github.com/Alena2020/Cards)🌹🌺🌸🌼🌻
 - :heavy_check_mark: Day 2: [Drag-and-Drop](https://github.com/Alena2020/Drag-and-Drop)📋
