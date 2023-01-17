@@ -82,6 +82,9 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 - :heavy_check_mark: [Beauty ](https://github.com/Alena2020/Beauty) 🛍
 - :heavy_check_mark: [Memory-Card-Game](https://github.com/Alena2020/Memory-Card-Game/) 🎮
 - :heavy_check_mark: [Drums](https://github.com/Alena2020/Drums/) 🥁🎼
+- :heavy_check_mark: [Calculator](https://github.com/Alena2020/Calculator) 🧮
+- :heavy_check_mark: [Traffic-light](https://github.com/Alena2020/Traffic-light) 🚦
+- :heavy_check_mark: [Currency-Converter](https://github.com/Alena2020/Currency-Converter)
 
 #### My project in which I implement my creative ideas on github:
 
