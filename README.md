@@ -85,6 +85,7 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 - :heavy_check_mark: [Calculator](https://github.com/Alena2020/Calculator) 🧮
 - :heavy_check_mark: [Traffic-light](https://github.com/Alena2020/Traffic-light) 🚦
 - :heavy_check_mark: [Currency-Converter](https://github.com/Alena2020/Currency-Converter)
+- :heavy_check_mark: [Simple-calculator](https://github.com/Alena2020/Simple-calculator) 🧮
 
 #### My project in which I implement my creative ideas on github:
 
