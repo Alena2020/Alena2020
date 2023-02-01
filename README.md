@@ -95,6 +95,7 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 - :heavy_check_mark: [Become-the-best-version-of-yourself](https://github.com/Alena2020/Become-the-best-version-of-yourself) (In the process of development)
 - :heavy_check_mark: [It-s-my-life](https://github.com/Alena2020/It-s-my-life)
 - :heavy_check_mark: [Challenge-calendar-december](https://github.com/Alena2020/Challenge-calendar-december) 🎄🎁🍊
+- :heavy_check_mark: [FantasyBook](https://github.com/Alena2020/FantasyBook) (In the process of development) 🔮💎✨
 
 # GitHub Stats
 
