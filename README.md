@@ -89,6 +89,8 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 - :heavy_check_mark: [Simple-calculator](https://github.com/Alena2020/Simple-calculator) 🧮
 - :heavy_check_mark: [Tic-Tac-Toe-](https://github.com/Alena2020/Tic-Tac-Toe-) 🎮
 - :heavy_check_mark: [Snake](https://github.com/Alena2020/Snake) 🎮
+- :heavy_check_mark: [Vue-todo-app](https://github.com/Alena2020/vue-todo-app)📋
+- :heavy_check_mark: [App-vue](https://github.com/Alena2020/app-vue)
 
 #### My project in which I implement my creative ideas on github:
 
