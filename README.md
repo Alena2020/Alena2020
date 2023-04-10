@@ -29,7 +29,7 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 ### Libraries and Frameworks:
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-mediumblue?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/)
-[![Vue](https://img.shields.io/badge/-Vue-mediumblue?style=for-the-badge&logo=Vue)](https://v3.ru.vuejs.org/)
+[![Vue](https://img.shields.io/badge/-Vue.js-#4FC08D?style=for-the-badge&logo=Vue.js)](https://v3.ru.vuejs.org/)
 
 <!--
 ### Books 📚:
