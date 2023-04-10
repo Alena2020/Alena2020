@@ -18,18 +18,18 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 ### Languages and Tools:
 
 [![JavaScript](https://img.shields.io/badge/-Java_Script-7FFFD4?style=for-the-badge&logo=JavaScript)](https://developer.mozilla.org/ru/docs/Web/JavaScript)
-[![HTML](https://img.shields.io/badge/-HTML-mediumblue?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
-[![CSS](https://img.shields.io/badge/-CSS-mediumblue?style=for-the-badge&logoColor=4f88db&logo=CSS3)](https://developer.mozilla.org/ru/docs/Web/CSS)
-[![Git](https://img.shields.io/badge/-Git-mediumblue?style=for-the-badge&logo=Git)](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-Git%3F)
-[![GitHub](https://img.shields.io/badge/-GitHub-mediumblue?style=for-the-badge&logo=GitHub)](https://github.com/)
-[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-mediumblue?style=for-the-badge&logoColor=4f88db&logo=VisualStudioCode)](https://code.visualstudio.com/)
+[![HTML](https://img.shields.io/badge/-HTML-7FFFD4?style=for-the-badge&logo=HTML5)](https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics)
+[![CSS](https://img.shields.io/badge/-CSS-7FFFD4?style=for-the-badge&logoColor=4f88db&logo=CSS3)](https://developer.mozilla.org/ru/docs/Web/CSS)
+[![Git](https://img.shields.io/badge/-Git-7FFFD4?style=for-the-badge&logo=Git)](https://git-scm.com/book/ru/v2/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%A7%D1%82%D0%BE-%D1%82%D0%B0%D0%BA%D0%BE%D0%B5-Git%3F)
+[![GitHub](https://img.shields.io/badge/-GitHub-7FFFD4?style=for-the-badge&logo=GitHub)](https://github.com/)
+[![Visual Studio Code](https://img.shields.io/badge/-Visual_Studio_Code-7FFFD4?style=for-the-badge&logoColor=4f88db&logo=VisualStudioCode)](https://code.visualstudio.com/)
 [![WebStorm](https://img.shields.io/badge/-WebStorm-mediumblue?style=for-the-badge&logoColor=black&logo=WebStorm)](https://www.jetbrains.com/ru-ru/webstorm/)
 [![Figma](https://img.shields.io/badge/-Figma-mediumblue?style=for-the-badge&logo=Figma)](https://www.figma.com/)
 
 ### Libraries and Frameworks:
 
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-mediumblue?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/)
-[![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js)](https://v3.ru.vuejs.org/)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-7FFFD4?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/)
+[![Vue](https://img.shields.io/badge/-VueJs-7FFFD4?style=for-the-badge&logo=VueJs)](https://v3.ru.vuejs.org/)
 
 <!--
 ### Books 📚:
