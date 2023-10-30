@@ -93,6 +93,7 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 - :heavy_check_mark: [Vue-todo-app](https://github.com/Alena2020/vue-todo-app)📋
 - :heavy_check_mark: [App-vue](https://github.com/Alena2020/app-vue) (In the process of development)
 - :heavy_check_mark: [Trello-clone](https://github.com/Alena2020/Trello-clone)📋
+- :heavy_check_mark: [Clock](https://github.com/Alena2020/Clock)⏰
 
 #### My project in which I implement my creative ideas on github:
 
