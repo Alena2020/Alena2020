@@ -30,6 +30,7 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7FFFD4?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/)
 [![Vue](https://img.shields.io/badge/-Vue.Js-7FFFD4?style=for-the-badge&logo=Vue.js)](https://v3.ru.vuejs.org/)
+[![React](https://img.shields.io/badge/-Vue.Js-7FFFD4?style=for-the-badge&logo=React.js)](https://react.dev/)
 
 <!--
 ### Books 📚:
@@ -95,6 +96,9 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 - :heavy_check_mark: [Trello-clone](https://github.com/Alena2020/Trello-clone)📋
 - :heavy_check_mark: [Clock](https://github.com/Alena2020/Clock)⏰
 - :heavy_check_mark: [React-todo-app](https://github.com/Alena2020/react-todo-app)📋
+- :heavy_check_mark: [React-cards](https://github.com/Alena2020/React-cards)📋
+- :heavy_check_mark: [React-board](https://github.com/Alena2020/React-board)📋
+- :heavy_check_mark: [React-Chess-TypeScript](https://github.com/Alena2020/React-Chess-TypeScript)♟ (In the process of development)
 
 #### My project in which I implement my creative ideas on github:
 
