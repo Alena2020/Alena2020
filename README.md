@@ -30,7 +30,7 @@ I'm open to new knowledge, I like to study new technologies and apply them in pr
 
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7FFFD4?style=for-the-badge&logo=Bootstrap)](https://getbootstrap.com/)
 [![Vue](https://img.shields.io/badge/-Vue.Js-7FFFD4?style=for-the-badge&logo=Vue.js)](https://v3.ru.vuejs.org/)
-[![React](https://img.shields.io/badge/-React.Js-7FFFD4?style=for-the-badge&logo=React.js)](https://react.dev/)
+[![React](https://img.shields.io/badge/-React.Js-7FFFD4?style=for-the-badge&logo=React.Js)](https://react.dev/)
 
 <!--
 ### Books 📚:
